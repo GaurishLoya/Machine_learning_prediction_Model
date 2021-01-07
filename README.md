@@ -1,5 +1,5 @@
 # Machine_learning_prediction_Model
-Repository contains two code file: one is a model prediction done taking 38 features and other is model prediction done taking 20 features
+The repository contains three code file: one is a model prediction performed taking 38 features, second is model prediction performed taking 20 feature and third is model prediction performed taking singular features.
 Project Introduction:
 Our project has proteome plasma data of 51 COVID-19 infected patients with patients classified as COVID-19 Non-severe & COVID-19 Severe.
 Our project aims to classify severity levels of such samples with the help of supervised machine learning models.
